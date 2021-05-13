@@ -1,0 +1,5 @@
+quantity(kWh),tire_type,city,motor_way,country_roads,driving_style,consumption(kWh/100km),A/C,park_heating,avg_speed(km/h),ecr_deviation
+15.11,Summer tires,0,0,1,Moderate,18.71,0,0,52.375,1.91
+237.51,Winter tires,0,1,0,Moderate,12.3,0,0,41.9,-4.5
+279.53,Winter tires,0,1,0,Moderate,12.7,0,0,46.3,-4.1
+264.0,Winter tires,0,1,0,Moderate,13.2,0,0,58.2,-3.6
